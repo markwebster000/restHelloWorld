@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="acronymServer" />
+        <module name="restHelloWorld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="acronymServer" target="1.8" />
+      <module name="restHelloWorld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
