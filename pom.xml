@@ -5,14 +5,13 @@
 
   <groupId>com.webbo.resthelloworld</groupId>
   <artifactId>resthelloworld</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
 
     <scm>
         <url>https://github.com/markwebster000/restHelloWorld</url>
         <connection>scm:git:git://github.com/markwebster000/restHelloWorld.git</connection>
         <developerConnection>scm:git:git@github.com://github.com/markwebster000/restHelloWorld.git/</developerConnection>
 
-    <tag>resthelloworld-1.0</tag>
   </scm>
 
     <distributionManagement>
