@@ -11,8 +11,7 @@
         <url>https://github.com/markwebster000/restHelloWorld</url>
         <connection>scm:git:git://github.com/markwebster000/restHelloWorld.git</connection>
         <developerConnection>scm:git:git@github.com:markwebster000/restHelloWorld.git/</developerConnection>
-      <tag>resthelloworld-1.0</tag>
-  </scm>
+    </scm>
 
     <distributionManagement>
         <repository>
